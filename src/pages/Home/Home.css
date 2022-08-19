@@ -1,0 +1,14 @@
+.wrapper {
+    border-bottom: 1px solid #393C49;
+}
+
+a {
+    font-weight: 600;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+.activee {
+    color: #EA7C69;
+    border-bottom: 1px solid #EA7C69;
+}
